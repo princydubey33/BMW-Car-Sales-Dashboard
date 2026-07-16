@@ -1,4 +1,4 @@
-# 🚗 BMW Car Sales Dashboard
+# 🚗 Interactive BMW Car Sales Dashboard | Power BI | Excel | DAX | Data Visualization
 
 ## 📌 Project Overview
 This project is an interactive Power BI dashboard developed to analyze BMW car sales performance. It provides insights into revenue, profit, sales trends, customer analysis, and model performance using interactive visualizations.

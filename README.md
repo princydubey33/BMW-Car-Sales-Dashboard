@@ -28,7 +28,7 @@ This project is an interactive Power BI dashboard developed to analyze BMW car s
 
 ## 📸 Dashboard Preview
 
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](Dashboard.png)
 
 ## 👩‍💻 Author
 **Princy Dubey**
